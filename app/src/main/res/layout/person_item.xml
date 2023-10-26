@@ -23,7 +23,8 @@
                 app:iconSize="40dp"
                 app:iconGravity="textStart"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintStart_toStartOf="parent"/>
+                app:layout_constraintStart_toStartOf="parent"
+                style="?materialIconButtonStyle"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"
